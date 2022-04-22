@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mcdalenas
+- 👀 I’m interested in coding and hardware.
+- 🌱 I’m currently learning Python
+- 📫 joelrequena1903@gmail.com
